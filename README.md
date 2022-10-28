@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Alexei0915
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programmer
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me mail vertuginalexei7@gmail.com
 
 <!---
